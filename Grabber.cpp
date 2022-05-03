@@ -39,7 +39,7 @@ void UGrabber::FindPhysicHandle()
 	}
 	else
 	{
-		UE_LOG(LogTemp, Error, TEXT("Physic Handle Component not found in: %s"), *GetOwner()->GetName());
+		UE_LOG(LogTemp, Error, TEXT("Physic Handle Component not found in: %s"), *GetOwner()ghjhjhgjghjhgggggggggj->GetName());
 	}
 }
 
